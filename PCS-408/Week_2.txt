@@ -1,0 +1,17 @@
+PRACTICE:
+1. Write a program to check whether an entered number is a positive, negative or zero.
+2. Write a program to check whether an entered number is an even or odd number.
+3. Write a program in Java to implement boxing and unboxing of all the wrapper classes.
+4. Using a switch statement find the month name. The input can be the number of the month.
+5. Write a program to print area of a circle, rectangle, triangle, using multi-class.
+6. Write a program in Java to check whether a triangle is an isosceles, scalene or an equilateral triangle. You can take dynamic input as the sides of triangle.
+
+QUESTION FOR LAB MANUAL: 
+Using the switch statement, write a menu driven program to calculate the maturity amount of a bank deposit. The user will be given with the following options:
+option 1: term deposit
+option 2: recurring deposit
+For option 1, accept principal as p, rate of interest as r and the time period in years as n. Calculate the output, i.e., the maturity amount (a) receivable using the formula: a = p * r * t / 100;
+For option 2, accept monthly deposit (p), rate of interest (r) and time period in months (n).
+Calculate and output the maturity amount (a) receivable using the formula a = (p * n) + (p * n(n+1) / 2) * r/100 * 1/12;
+For an incorrect option, an appropriate error message should get displayed.
+Use scanner classes for taking the input.
