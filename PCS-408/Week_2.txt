@@ -10,7 +10,7 @@ QUESTION FOR LAB MANUAL:
 Using the switch statement, write a menu driven program to calculate the maturity amount of a bank deposit. The user will be given with the following options:
 option 1: term deposit
 option 2: recurring deposit
-For option 1, accept principal as p, rate of interest as r and the time period in years as n. Calculate the output, i.e., the maturity amount (a) receivable using the formula: a = p * r * t / 100;
+For option 1, accept principal as p, rate of interest as r and the time period in years as n. Calculate the output, i.e., the maturity amount (a) receivable using the formula: a += p * r * t / 100;
 For option 2, accept monthly deposit (p), rate of interest (r) and time period in months (n).
 Calculate and output the maturity amount (a) receivable using the formula a = (p * n) + (p * n(n+1) / 2) * r/100 * 1/12;
 For an incorrect option, an appropriate error message should get displayed.

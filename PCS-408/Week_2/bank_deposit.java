@@ -21,7 +21,7 @@ class BankDeposit {
 			r = scanner.nextFloat();
 			System.out.print("Enter the time period in years:");
 			n = scanner.nextFloat();
-			a += p * r * n / 100;
+			a = p * (1 + r / 100) * n;
 			System.out.println("The maturity amount is " + a);
 			System.exit(0);
 	 	   case 2:
