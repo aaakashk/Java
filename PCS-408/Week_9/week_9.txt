@@ -1,0 +1,15 @@
+1. Define a class WordExample having the following descriptions -
+	1. data member/instance variables - private String strData - to store a sentence
+	2. parameterised constructor - WordExample(String) - accept a sentence which maybe terminated by either period(.), question mark(?) or exclaimation mark(!). The words maybe separated by more than 1 blank space and are in uppercase.
+	3. member method - i. void countWord() - find the number of words beginning and ending with a vowel.
+			   ii. void placeWord() - place the words which begin and end with a vowel at beginning, followed by the remaining words as they occur in the sentence.
+2. Write a program to create a class ArrayDemo and overload arrayFunc().
+	void arrayFunc(int[], int) - to find all pairs of elements in an array whose sum is equal to the given number.
+	eg.: array = 4, 6, 5, -10, 8, 5, 20, given sum = 10
+	pairs of elements whose sum is 10 are 4 + 6 and 5 + 5 and -10 + 20
+	void arrayFunc(int A[], int B[], int p, int q) - given two sorted array A and B of sizes p and q. Now overload method arrayFunc() to merge the elements of A with B by maintaining the sorted order, i.e. fill A with first p smallest element and fill B with remaining elements.
+	eg.: A = [1, 5, 6, 7, 8, 10]
+	     B = [2, 4, 9]
+	Output: A = [1, 2, 4, 5, 6, 7]
+		B = [8, 9, 10]
+	Use compile time polymorphism overloading.
