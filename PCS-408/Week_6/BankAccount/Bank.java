@@ -1,3 +1,5 @@
+package BankAccount;
+
 public class Bank {
     private String name;
     private String address;

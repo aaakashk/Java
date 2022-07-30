@@ -1,9 +1,0 @@
-1. Write a program to find whether the given key element is present in an array or not.
-2. Write a program to find maximum and minimum element in an array.
-3. Write a program to print array in reverse order.
-QUESTION FOR LAB MANUAL:
-7. Write a program to find saddle point in a given matrix.
-Saddle point is the point which is minimum in its row and maximum in its column.
-8. Write a program to find pattern of 0(1+)0 in a given string.
-e.g. - 011011110110 
-Answer - 3
