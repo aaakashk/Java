@@ -11,3 +11,5 @@ For Term Deposit, accept Principal (p), rate of interest (r) and time period *in
 For Recurring Deposit, accept monthly installment (p), rate of interest (r) and time period *in months* (n). Calculate and output the maturity amount (a) receivable using the formula **a = p * n + p * n(n + 1) / 2 * r / 100 * 1 / 12**.<br>
 For an incorrect option, an appropriate error message should be displayed.<br>
 [Use Scanner Class to take input]
+
+---

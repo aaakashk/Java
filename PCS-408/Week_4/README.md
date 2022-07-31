@@ -27,3 +27,5 @@ The problem to rearrange positive and negative numbers in an array.<br>
 
 - **Input:** 1 -1 2 -2  3 -3
 - **Output:** -1 -2 -3 1 2 3
+
+---

@@ -22,3 +22,5 @@ Write a Java program to replace all 0's with 1 in a given integer.
 **Input:** 56004
 
 **Output:** 56114
+
+---

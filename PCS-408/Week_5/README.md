@@ -26,3 +26,5 @@ Program to find all the patterns of **0(1+)0** in the given string. Given a stri
 **0110**1111010<br>
 011**011110**10<br>
 01101111**010**<br>
+
+---
