@@ -4,7 +4,7 @@
 
 Write a Java program to delete vowels from given string using StringBuffer class.
 
-#### [Bank](/BankAccount/Bank.java)
+#### [Bank](/PCS-408/Week_6/BankAccount/Bank.java)
 
 Write a Java program to create a class named '**Bank**' with the following data members:<br>
 - Name of depositor
